@@ -1,5 +1,5 @@
 # GGJ2023
-Global Game Jam 2023 in IST
+Global Game Jam 2023 in IST - Tagus Park
 
 # LINK TO PLAY
 https://rubenftgd.github.io/GGJ2023/
