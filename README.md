@@ -32,3 +32,8 @@ https://rubenftgd.github.io/GGJ2023/
 **Image Gameplay - History**
 ======
 ![plot](./gameplay-images/history.jpeg) 
+
+---
+
+# TO FIX WEB GAME DEPLOY
+Go to Player setting -> WebGL -> Publish settings -> Compression = disabled. 
