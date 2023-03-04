@@ -1,6 +1,9 @@
 # GGJ2023
 Global Game Jam 2023 in IST - Tagus Park
 
+# Unity Version
+2021.3.20f1
+
 # LINK TO PLAY
 https://rubenftgd.github.io/GGJ2023/
 
